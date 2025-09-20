@@ -1,0 +1,44 @@
+MIT License
+
+Copyright (c) 2025 GIST Framework Research Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+GIST Framework Academic Research Notice
+
+This software implements the GIST (Governance, Infrastructure, Security, Trust)
+Framework developed as part of academic research on digital maturity assessment
+in the Italian retail sector (Grande Distribuzione Organizzata - GDO).
+
+The framework is based on empirical research involving 234 organizations and
+has been validated through statistical analysis and expert review processes.
+
+When using this software in academic or commercial contexts, please consider
+citing the original research work.
+
+Research Context:
+- Title: "Framework per la Valutazione della Maturità Digitale in Ambienti Cloud Ibridi: Analisi del Settore GDO"
+- Institution: [University Name]
+- Year: 2025
+- Research Area: Digital Transformation, Cloud Security, Risk Assessment
+
+For research collaboration or data access requests, please contact the
+research team through the official channels provided in the documentation.
