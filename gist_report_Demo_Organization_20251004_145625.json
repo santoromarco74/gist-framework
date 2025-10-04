@@ -1,0 +1,55 @@
+{
+  "timestamp": "2025-10-04T14:56:25.238555",
+  "organization": "Demo Organization",
+  "score": 68.33,
+  "method": "sum",
+  "maturity_level": "Avanzato",
+  "maturity_description": "Architettura moderna, sicurezza integrata",
+  "components": {
+    "physical": 85,
+    "architectural": 88,
+    "security": 82,
+    "compliance": 86
+  },
+  "component_weights": {
+    "physical": 0.18,
+    "architectural": 0.32,
+    "security": 0.28,
+    "compliance": 0.22
+  },
+  "gaps": {
+    "physical": {
+      "current": 85,
+      "target": 85,
+      "gap": 0,
+      "gap_percentage": 0
+    },
+    "architectural": {
+      "current": 88,
+      "target": 88,
+      "gap": 0,
+      "gap_percentage": 0
+    },
+    "security": {
+      "current": 82,
+      "target": 82,
+      "gap": 0,
+      "gap_percentage": 0
+    },
+    "compliance": {
+      "current": 86,
+      "target": 86,
+      "gap": 0,
+      "gap_percentage": 0
+    }
+  },
+  "recommendations": [],
+  "derived_metrics": {
+    "estimated_availability": 99.649,
+    "estimated_assa_score": 181.0,
+    "estimated_mttr_hours": 2.5,
+    "compliance_coverage_percent": 93.0,
+    "expected_incidents_per_year": 3.8,
+    "cost_efficiency_index": 0.747
+  }
+}
