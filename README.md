@@ -275,6 +275,23 @@ Questo progetto è rilasciato sotto [Licenza MIT](LICENSE).
 - **ENISA**: Threat landscape data per calibrazione sicurezza
 - **ISTAT**: Dati statistici settore retail
 
+- ## Citation
+
+If you use GIST Framework in your research, please cite:
+```bibtex
+@article{santoro2025gist,
+  author = {Santoro, Marco},
+  title = {GIST: A Comprehensive Digital Transformation Framework for Large-Scale Retail Infrastructure Security},
+  journal = {Computers \& Security},
+  year = {2025},
+  doi = {10.1016/j.cose.2025.XXXXX}
+}
+```
+
+Or in text:
+
+Santoro, M., & Farina, G. (2025). GIST: A Comprehensive Digital Transformation Framework for Large-Scale Retail Infrastructure Security. Computers & Security. [DOI will be added upon publication]
+
 ## 📞 Supporto
 
 - **Issues**: [GitHub Issues](https://github.com/your-org/gist-framework/issues)
