@@ -1,0 +1,76 @@
+{
+    "store_profiles": {
+        "small": {
+            "avg_daily_transactions": 450,
+            "avg_transaction_value": 18.5,
+            "sqm": 400,
+            "employees": 8
+        },
+        "medium": {
+            "avg_daily_transactions": 1250,
+            "avg_transaction_value": 32.5,
+            "sqm": 1500,
+            "employees": 25
+        },
+        "large": {
+            "avg_daily_transactions": 3500,
+            "avg_transaction_value": 48.75,
+            "sqm": 4000,
+            "employees": 80
+        }
+    },
+    "payment_methods": {
+        "cash": 0.31,
+        "debit_card": 0.38,
+        "credit_card": 0.21,
+        "digital_wallet": 0.08,
+        "other": 0.02
+    },
+    "temporal_patterns": {
+        "peak_hours": [
+            11,
+            12,
+            17,
+            18,
+            19
+        ],
+        "peak_days": [
+            "friday",
+            "saturday"
+        ],
+        "seasonal_factors": {
+            "january": 0.85,
+            "february": 0.88,
+            "march": 0.95,
+            "april": 0.98,
+            "may": 1.02,
+            "june": 1.05,
+            "july": 1.08,
+            "august": 0.95,
+            "september": 0.98,
+            "october": 1.02,
+            "november": 1.05,
+            "december": 1.35
+        }
+    },
+    "security_baseline": {
+        "daily_security_events": 1250,
+        "false_positive_rate": 0.87,
+        "incident_rate": 0.0003,
+        "threat_distribution": {
+            "malware": 0.28,
+            "phishing": 0.22,
+            "dos": 0.15,
+            "insider": 0.12,
+            "misconfiguration": 0.18,
+            "other": 0.05
+        }
+    },
+    "performance_targets": {
+        "pos_availability": 0.9995,
+        "network_latency_ms": 20,
+        "database_response_ms": 50,
+        "api_response_ms": 200,
+        "backup_success_rate": 0.999
+    }
+}
