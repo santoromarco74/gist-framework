@@ -284,7 +284,7 @@ If you use GIST Framework in your research, please cite:
   title = {GIST: A Comprehensive Digital Transformation Framework for Large-Scale Retail Infrastructure Security},
   journal = {Computers \& Security},
   year = {2025},
-  doi = {10.1016/j.cose.2025.XXXXX}
+  doi = {10.1016/j.cose.2025.06358}
 }
 ```
 
